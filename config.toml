@@ -27,7 +27,7 @@ defaultContentLanguageInSubdir = false
   email = "sidm@cse.iitk.ac.in"
   address = ""
   office_hours = ""
-  phone = ""
+  phone = "+91 7620910325"
   skype = "sidmittal"
   telegram = ""
 
@@ -121,6 +121,10 @@ defaultContentLanguageInSubdir = false
   #   google-scholar, arxiv, orcid, researchgate, mendeley
   #
   #   Full list: https://jpswalsh.github.io/academicons/
+  [[params.social]]
+    icon = "file-pdf-o"
+    icon_pack = "fa"
+    link = ""
 
   [[params.social]]
     icon = "envelope"
@@ -128,19 +132,19 @@ defaultContentLanguageInSubdir = false
     link = "mailto:sidm@cse.iitk.ac.in"
 
   [[params.social]]
-    icon = "mobile"
+    icon = "linkedin"
     icon_pack = "fa"
-    link = "+91 7620910325"
-
-  [[params.social]]
-    icon = ""
-    icon_pack = ""
-    link = ""
+    link = "https://www.linkedin.com/in/siddharth-mittal-b877a3135/"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/smittal6"
+
+  [[params.social]]
+    icon = "facebook"
+    icon_pack = "fa"
+    link = "//facebook.com/sidm17"
 
 
 # Navigation Links
