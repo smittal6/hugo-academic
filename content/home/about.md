@@ -28,6 +28,6 @@ weight = 1
 
 # Biography
 
-I'm Siddharth, Junior Undergraduate at CSE, IIT Kanpur, India and I'm broadly interested in Machine Learning and its application in Speaker Recognition tasks. I am also intrigued by Operating Systems and am looking forward to exploring them.
+I'm Siddharth, Junior Undergraduate at CSE, IIT Kanpur, India and I'm broadly interested in Theoratical Machine Learning, Deep Learning with applications to  Speech Recognition and Computer Vision. I am also intrigued by Operating Systems and am looking forward to exploring them.
 
 Apart from my academic pursuits, I enjoy swimming and playing football. 

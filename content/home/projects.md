@@ -26,8 +26,8 @@ view = 1
   tag = "*"
   
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "Speaker change detection"
+  tag = ".scd"
 
 [[filter]]
   name = "Other"
