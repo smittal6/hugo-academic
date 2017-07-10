@@ -124,7 +124,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "file-pdf-o"
     icon_pack = "fa"
-    link = ""
+    link = "res/upload_version.pdf"
 
   [[params.social]]
     icon = "envelope"
